@@ -26,8 +26,9 @@
                 "input": "public"
               }
             ],
-            "styles": [
+            "styles": [            
               "src/styles.css"
+              
             ],
             "scripts": [],
             "server": "src/main.server.ts",
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "b18f49a3-eb2a-45a1-a043-0cb8429b327e"
   }
 }
